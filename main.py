@@ -1,6 +1,9 @@
 from tuyapy import TuyaAPI
 import time
 
+
+# email to discord code goes above so i dont have to spend ages writing the get email code again
+
 # login to api
 TuyaAPI.login(username, password)
 
